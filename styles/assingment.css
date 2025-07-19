@@ -31,4 +31,92 @@ nav ul li{
     color: #FFFFFF;
     padding: 18px 35px;
     border-radius: 5px;
+    border: none;
+}
+.banner{
+    position: relative;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    color: #252432;
+    margin: 150px 150px 150px 150px;
+    
+    
+}
+
+.open-sans-no {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+
+
+
+
+}
+/* header */
+.header{
+    background-image: url('../Assets/Hero-bg.png');
+}
+.class1{
+    font-weight: bold;
+    font-size: 42px;
+}
+.class4{
+    font-weight: normal;
+    font-size: 24px;
+    color: #252432, rgba(50, 36, 50, 0.5) ;
+    width: 814;
+}
+.action-pic{
+    width: 300px;
+    border-radius: 10px;
+    width: 814;
+    
+    
+}
+.action{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.users{
+    text-align: center;
+    padding: 50px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #A17D98;
+    border-radius: 10px;
+    box-sizing: 50px;
+    width: 1140px;
+    margin: 116px 120px 137px 141px;
+}
+    
+.about-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+
+
+}
+.about-item{
+    border-radius: 12px;
+    padding: 20px 30px;
+    box-shadow: ;
+    width: 150xp;
+    margin: 30px 5px 0px;
+}
+.try{
+    display: flex;
+    align-items: center;
+}
+.review{
+   
+.review-section{
+    
+    margin: 137px 149px 130px 151px;
+    width: 1140px;
+     display: flex;
 }
